@@ -1,0 +1,5 @@
+C:\Users\Familia Ramos\Teste\obj\Debug\net7.0\Teste.csproj.AssemblyReference.cache
+C:\Users\Familia Ramos\Teste\obj\Debug\net7.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia Ramos\Teste\obj\Debug\net7.0\Teste.AssemblyInfoInputs.cache
+C:\Users\Familia Ramos\Teste\obj\Debug\net7.0\Teste.AssemblyInfo.cs
+C:\Users\Familia Ramos\Teste\obj\Debug\net7.0\Teste.csproj.CoreCompileInputs.cache
