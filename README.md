@@ -1,3 +1,5 @@
 # C
-C#t treinamento 
+C# treinamento 
 acresentar mais coisas
+
+em andamento 
